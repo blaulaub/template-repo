@@ -21,4 +21,5 @@ following files to match your new project:
 
 ## Available Template Branches
 
-- [Latex](https://github.com/blaulaub/template-repo/tree/Latex)
+- _deprecated_ [Latex](https://github.com/blaulaub/template-repo/tree/Latex)
+- [Latex-encoding](https://github.com/blaulaub/template-repo/tree/Latex-encoding) preconfigured for UTF-8 and T1
