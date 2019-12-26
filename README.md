@@ -29,4 +29,4 @@ following files to match your new document:
 
 ## More Specific Template Branches
 
-- currently none
+- [Latex-article](https://github.com/blaulaub/template-repo/tree/Latex-article)
