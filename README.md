@@ -1,5 +1,7 @@
 # Latex Template Repo
 
+_Deprecated, use [Latex-encoding](https://github.com/blaulaub/template-repo/tree/Latex-encoding) instead_
+
 This is a meta repository for bootstrapping new Latex documents.
 Templates for more specific Latex document types are kept in branches.
 To start a new document, just clone the suitable branch and adapt it.
