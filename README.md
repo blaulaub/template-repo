@@ -1,8 +1,8 @@
-# Template Repo
+# Latex Template Repo
 
-This is a meta repository for bootstrapping new projects.
-Templates for various types of software projects are kept in branches.
-To start a new project, just clone the suitable branch and adapt it.
+This is a meta repository for bootstrapping new Latex documents.
+Templates for more specific Latex document types are kept in branches.
+To start a new document, just clone the suitable branch and adapt it.
 
 ## How to clone
 
@@ -13,12 +13,13 @@ itself is not intended for cloning, as it is not a template for anything.
 
 ## Files to Adjust
 
-When starting a new project by cloning from a template branch, you should edit the
-following files to match your new project:
+When starting a new document by cloning from this branch, you should edit the
+following files to match your new document:
 
 - `README.md` is this text you are just reading
 - `LICENSE` is currently a copy of the MIT License
+- `main.tex` is the Latex document
 
-## Available Template Branches
+## More Specific Template Branches
 
 - currently none
