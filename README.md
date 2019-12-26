@@ -21,4 +21,4 @@ following files to match your new project:
 
 ## Available Template Branches
 
-- currently none
+- [Latex](https://github.com/blaulaub/template-repo/tree/Latex)
