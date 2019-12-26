@@ -10,13 +10,13 @@ Assuming you want to start a new project with a project folder `$PROJECT`,
 clone from the template branch with the following three steps:
 
 ```
-git clone --single-branch -b Latex -o template git@github.com:blaulaub/template-repo.git "$PROJECT"
+git clone --single-branch -b Latex-encoding -o template git@github.com:blaulaub/template-repo.git "$PROJECT"
 cd "$PROJECT"
-git branch -m Latex master
+git branch -m Latex-encoding master
 ```
 
 The resulting project folder will contain a branch `master` with an upstream
-branch `template:Latex`.
+branch `template:Latex-encoding`.
 
 ## Files to Adjust
 
