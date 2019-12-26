@@ -21,5 +21,6 @@ following files to match your new project:
 
 ## Available Template Branches
 
+- [java-maven](https://github.com/blaulaub/template-repo/tree/java-maven) for Java 8 with JUnit 5
 - _deprecated_ [Latex](https://github.com/blaulaub/template-repo/tree/Latex)
 - [Latex-encoding](https://github.com/blaulaub/template-repo/tree/Latex-encoding) preconfigured for UTF-8 and T1
