@@ -6,12 +6,14 @@ To start a new project, just clone the suitable branch and adapt it.
 
 ## How to clone
 
-_To do. Just list the git commands to clone a specific branch, to make a
-shallow clone, to create an orphan without link to the origin._
+To start a real project from a template, you may simply clone from that template.
+To learn how to clone (or rather fork) from a template, go to the `README.md`
+on the specific template branch that you want to clone. The `master` branch
+itself is not intended for cloning, as it is not a template for anything.
 
 ## Files to Adjust
 
-When starting a new project by cloning from this branch, you should edit the
+When starting a new project by cloning from a template branch, you should edit the
 following files to match your new project:
 
 - `README.md` is this text you are just reading
